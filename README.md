@@ -1,5 +1,6 @@
 # Avaliação A3
-![](./assets/dev.gif)
+<img src="./assets/dev.gif" width="300px" height="220px" />
+
 ### professor
 >Marcelo Amorim
 
