@@ -8,7 +8,7 @@
 
 Descrição e documentação do projeto **A3 2023/2** da **Unidade curricular de Programação de Soluções Computacionais**. 
 
-## Objetivo
+## SUA MISSÃO
 	
 Desenvolver em **Java** um sistema Desktop (usando janelas) simples de cadastro com as funcionalidades **CRUD** utilizando como persistencia das informações o banco de dados **SQLite**.
 
@@ -18,7 +18,29 @@ Desenvolver em **Java** um sistema Desktop (usando janelas) simples de cadastro 
 >**O que é o SQLite?**
 >O SQLite é uma base de dados relacional de código aberto e que dispensa o uso de um servidor na sua atuação. Armazenando seus arquivos dentro de sua própria estrutura, ele é capaz de funcionar muito bem em aplicações diversas, principalmente, websites de tráfego médio e sistemas mobile.
 
-## FASE 1: Por onde começar? Conhecendo um projeto padrão de exemplo
+## Critérios
+
+* Todo projeto deverá desenvolver uma entidade para persistir usuários e ter seu respectivo CRUD implementado. 
+* Todo projeto deverá ter uma tela inicial de login que valide um usuário a partir da entidade do item anterior.
+* Cada grupo deverá desenvolver pelo menos dois CRUDs.
+
+Deixaremos a critério de cada grupo a escolha das entidades de dados que serão utilizadas para os CRUDs. Lembre-se que este projeto será apresentado ao professor. Portanto façam a escolha por algumas entidades que tenham atributos suficientes que descreva a entidade corretamente de forma simples  e pensando em como justificá-las. 
+
+## Sobre a entrega
+
+O projeto deverá ser disponibilizado em um repositório do Github de algum dos integrantes do grupo e deverá conter obrigatóriamente:
+1. RA e Nome completo dos integrantes
+2. Código fonte da implementação em Java
+3. Arquivo SQLite de banco de dados.
+4. Texto **README.md** contendo RA e Nome completo dos integrantes e explicações sobre os CRUDs utilizados no projeto. 
+
+## GRUPOS
+
+[Formulário para indicação dos grupos](https://forms.gle/5Tdfw4hdqPMshEQ36)
+
+Lista de GRUPOS / Integrantes **[VER LISTA](./grupos.md)**
+
+## Por onde começar? Conhecendo um projeto padrão de exemplo
 
 Para auxiliar no desenvolvimento e aprendizagem que será adquira com este projeto, nesta fase é apresentado um modelo de projeto utilizando o **netbeans** como IDE de desenvolvimento. O projeto será desenvolvido e detalhado durante as aulas e a medida que as aulas avançam, as atualizações são realizadas podendo ser acessado na pasta deste repositório localizado em [ProjetoA3](./ProjetoA3/). 
 
@@ -80,3 +102,10 @@ db.closeConnection();
 Seguir na criação das tabelas conforme explicao em aula. 
 <img src="./assets/tela05.png" width="800px" height="400px" />
 
+#### 5. Como conectar e acessar o banco?
+> Um exemplo pode ser visto na classe principal na pasta do projeto [ProjetoA3/src/projetoa3/ProjetoA3.java](./ProjetoA3/src/projetoa3/ProjetoA3.java).
+
+#### 6. Como desenvolver as janelas?
+> Exemplos podem ser visto nas classes:
+> * JANELA CRUD [ProjetoA3/src/projetoa3/Times.java](./ProjetoA3/src/projetoa3/Times.java).
+> * JANELA CADASTRO [ProjetoA3/src/projetoa3/TimesCad.java](./ProjetoA3/src/projetoa3/TimesCad.java).
