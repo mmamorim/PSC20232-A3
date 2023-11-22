@@ -53,3 +53,30 @@ while(db.next()) {
 }
 db.closeConnection();
 ```
+
+> **Classe [TableRender.java](./ProjetoA3/src/projetoa3/TableRender.java)**
+##### Para que serve? 
+Utilizar para popular com dados o componente JTable do Java na janela gráfica.
+
+##### Exemplo?
+```~java
+DB db = new DB("bancodados.db");
+db.query("SELECT * FROM times");
+String cols[] = { "CODIGO", "NOME DO TIME", "SERIE", "COR" };
+String fields[] = { "codigo", "nome", "serie", "corcamisa" };        
+TableRender.render(table, cols, fields, db);
+db.closeConnection();
+```
+
+#### 4. Criando um **BANCO DE DADOS LEGAL** SQLite com o SQLiteStudio 
+> **O que é o SQLiteStudio?**
+> É um software multiplataforma e portável para ajudar a gerenciar bancos de dados SQLite.
+> Link para o sqlitestudio [sqlitestudio.pl](https://sqlitestudio.pl/)
+> **NOTA IMPORTANTE:** Sugiro a escolha da opção para download portable (arquivo compactado .zip). Descompactar e executar o arquivo da aplicação.
+
+#### Escolher um bom nome para seu banco e lembar de salvá-lo na pasta raiz do projeto! 
+<img src="./assets/tela04.png" width="400px" height="400px" />
+
+Seguir na criação das tabelas conforme explicao em aula. 
+<img src="./assets/tela05.png" width="800px" height="400px" />
+
