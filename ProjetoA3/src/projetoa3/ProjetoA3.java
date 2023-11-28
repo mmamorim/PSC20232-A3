@@ -6,11 +6,17 @@ public class ProjetoA3 {
 
         System.out.println("Oi mundo");
         
-        Times timesJanela = new Times();
-        timesJanela.setVisible(true);
+        //Times timesJanela = new Times();
+        //timesJanela.setVisible(true);
+        //Frutas frutasJanela = new Frutas();
+        //frutasJanela.setVisible(true);
+        
+        Menu menuJanela = new Menu();
+        menuJanela.setTitle("CRUDS EXEMPLO");
+        menuJanela.setVisible(true);
         
         DB db = new DB("bancodados.db");
-        db.query("SELECT * FROM times");
+        db.query("SELECT * FROM frutas");
         while(db.next()) {
             int codigo = db.getInt("codigo");
             String nome = db.getString("nome");
