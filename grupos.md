@@ -100,3 +100,38 @@
 |823155486|William Barbosa Lima|
 |81920381|Bruno Vieira de Oliveira|
 |819120664|Aline Cristina Gonçalves dos Santos|
+
+## GRUPO 12
+| RA | NOME  |
+|---|---|
+|823149287| Giovanni Bordin Oséas|
+|821142737| Lara Anastacio Alfaro|
+|821133578| Thaina Leal Santos|
+|822228080| naiara santos silva|
+|821140338| Gabriel da Silva Costa|
+|823222037| Willian Rodrigues Souto|
+|822140932| Murillo Carvalho Amate|
+
+## GRUPO 13
+| RA | NOME  |
+|---|---|
+|820120229| Cecilia Trindade Nakamura| 
+|822229283| Cássia Althman |
+|820113316| Henrique da Silva Gonçalves |
+|820142169| Aline Alves de Souza |
+|82118158| João Vitor Fernandes Euzebio|
+
+## GRUPO 14
+| RA | NOME  |
+|---|---|
+|822160985| Daniel Benício Matias de Araújo|
+|822144341| Gustavo Alexandre Ruckert|
+|821232761| João Pedro de Souza Silva|
+|82215283| Leonardo Hossokawa de Oliveira|
+|821113694| Sanndy Cristina Fogaça da Silva| 
+
+## GRUPO 15
+| RA | NOME  |
+|---|---|
+|819155925|Gabriel Hiemisch Ribeiro Cordeiro|
+|819120683|Victor Leme Beltran|
