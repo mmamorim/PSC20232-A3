@@ -10,11 +10,11 @@
 ## GRUPO 02
 | RA | NOME  |
 |---|---|
+|810116105|Victor Davi Fernandes Martins Costa|
 |819214386|Eric Vasconcelos de Carvalho|
-|820267588|Gabriel Guedes|
+|820267588|Gabriel Guedes Coelho|
+|820132987|Luiz Fernando Silva Alencar|
 |819148974|Pedro Yamaguti Satiles de Lima|
-|820132987|Luiz Alencar|
-|820116105|Victor Davi Fernandes Martins Costa|
 
 ## GRUPO 03
 | RA | NOME  |
@@ -53,28 +53,19 @@
 ## GRUPO 06
 | RA | NOME  |
 |---|---|
-|810116105|Victor Davi Fernandes Martins Costa|
-|819214386|Eric Vasconcelos de Carvalho|
-|820267588|Gabriel Guedes Coelho|
-|820132987|Luiz Fernando Silva Alencar|
-|819148974|Pedro Yamaguti Satiles de Lima|
-
-## GRUPO 07
-| RA | NOME  |
-|---|---|
 |82317440|Gabriel Patrício Soares|
 |823150188|Leandro Moises Vaz|
 |823132593|Mateus Bulani de Moura|
 |823134161|Tiago Bulani de Moura|
 
-## GRUPO 08
+## GRUPO 07
 | RA | NOME  |
 |---|---|
 |823119109|Kessia de Fatima Araujo Brito|
 |823122774|Lucas Eduardo Barreto de Oliveira|
 |82320977|Grazielli Soares Pereira|
 
-## GRUPO 09
+## GRUPO 08
 | RA | NOME  |
 |---|---|
 |823135077|Caio Mariano|
@@ -83,14 +74,14 @@
 |823144189|Taissa Almeida Souza De Jesus|
 |823156386|Victor Quintino|
 
-## GRUPO 10
+## GRUPO 09
 | RA | NOME  |
 |---|---|
 |823139272|Diego Souza de melo|
 |823216087|Gustavo Henrique Dias Lima Oliveira|
 |823120040|Gabriel Gomes Sales|
 
-## GRUPO 11
+## GRUPO 10
 | RA | NOME  |
 |---|---|
 |819215906|João Douglas Rocha Brandão|
@@ -101,7 +92,7 @@
 |81920381|Bruno Vieira de Oliveira|
 |819120664|Aline Cristina Gonçalves dos Santos|
 
-## GRUPO 12
+## GRUPO 11
 | RA | NOME  |
 |---|---|
 |823149287| Giovanni Bordin Oséas|
@@ -112,7 +103,7 @@
 |823222037| Willian Rodrigues Souto|
 |822140932| Murillo Carvalho Amate|
 
-## GRUPO 13
+## GRUPO 12
 | RA | NOME  |
 |---|---|
 |820120229| Cecilia Trindade Nakamura| 
@@ -121,7 +112,7 @@
 |820142169| Aline Alves de Souza |
 |82118158| João Vitor Fernandes Euzebio|
 
-## GRUPO 14
+## GRUPO 13
 | RA | NOME  |
 |---|---|
 |822160985| Daniel Benício Matias de Araújo|
@@ -130,7 +121,7 @@
 |82215283| Leonardo Hossokawa de Oliveira|
 |821113694| Sanndy Cristina Fogaça da Silva| 
 
-## GRUPO 15
+## GRUPO 14
 | RA | NOME  |
 |---|---|
 |819155925|Gabriel Hiemisch Ribeiro Cordeiro|
