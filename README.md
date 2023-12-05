@@ -33,7 +33,10 @@ O projeto deverá ser disponibilizado em um repositório do Github de algum dos 
 2. Código fonte da implementação em Java
 3. Arquivo SQLite de banco de dados.
 4. Texto **README.md** contendo RA e Nome completo dos integrantes e explicações sobre os CRUDs utilizados no projeto. 
-
+5. Apenas um integrante deve enviar um email com o assunto **PSC2023-2 A3 GRUPO XX** para ```marcelo.amorim@saojudas.br``` contendo:
+    1. RA e Nome completo dos integrantes
+    2. Link (endereço) gitHub do projeto
+   
 ## GRUPOS
 
 [Formulário para indicação dos grupos](https://forms.gle/5Tdfw4hdqPMshEQ36)
