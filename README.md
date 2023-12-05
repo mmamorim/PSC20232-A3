@@ -28,6 +28,8 @@ Deixaremos a critério de cada grupo a escolha das entidades de dados que serão
 
 ## Sobre a entrega
 
+**DATA DA ENTREGA: 12/12/2023**
+
 O projeto deverá ser disponibilizado em um repositório do Github de algum dos integrantes do grupo e deverá conter obrigatóriamente:
 1. RA e Nome completo dos integrantes
 2. Código fonte da implementação em Java
